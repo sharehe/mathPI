@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a28ea24d-988d-4cd8-bbf9-b05a37e52930" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mathPI.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/mathPI/cn/sharhe/mathPI/beans/Point.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/mathPI/cn/sharhe/mathPI/controller/CircleController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/mathPI/cn/sharhe/mathPI/fram/AlgoJFrame$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/mathPI/cn/sharhe/mathPI/fram/AlgoJFrame$AlgoJPanl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/mathPI/cn/sharhe/mathPI/fram/AlgoJFrame.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/mathPI/cn/sharhe/mathPI/handle/PointHandle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/mathPI/cn/sharhe/mathPI/utils/AlgoVisHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/sharhe/mathPI/beans/Point.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/sharhe/mathPI/controller/CircleController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/sharhe/mathPI/fram/AlgoJFrame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/sharhe/mathPI/handle/PointHandle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/sharhe/mathPI/utils/AlgoVisHelper.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -369,12 +353,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528008209898</updated>
-      <workItem from="1528008211589" duration="5886000" />
+      <workItem from="1528008211589" duration="6633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5886000" />
+    <option name="totallyTimeSpent" value="6633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
