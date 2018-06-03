@@ -25,4 +25,4 @@
 
 
 
-[作者博客](shareh.cn)
+[作者博客](http://sharehe.cn/)
